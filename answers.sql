@@ -1,6 +1,6 @@
 --My First Assignment on Database
 
-1.--Create a Database called SalesDB
+1.--Create a Database called salesDB
     CREATE DATABASE salesDB;  --Solution to number 1
 
 
